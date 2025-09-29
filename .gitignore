@@ -1,0 +1,41 @@
+# Webots simulation files
+*.wbt~
+*.proto~
+*.wbt.bak
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+*.txt
+maze_performance_*.txt
+
+# Temporary files
+*.tmp
+*.temp
